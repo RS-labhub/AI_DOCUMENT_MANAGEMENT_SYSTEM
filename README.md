@@ -4,8 +4,6 @@
 
 This project demonstrates how to implement fine-grained authorization for both users and AI agents in a Next.js application using Permit.io. It's a document management system where users can create, view, edit, and delete documents based on their roles and document ownership, and AI agents can assist with document management based on their assigned permissions.
 
-&nbsp;
-
 ## Features
 
 ### User Authorization
@@ -32,6 +30,13 @@ This project demonstrates how to implement fine-grained authorization for both u
 - **Next.js App Router**: Modern React application with server components and server actions
 - **Responsive UI**: Using Tailwind CSS and shadcn/ui components
 - **Dark Mode**: Customizable dark mode with tailored color scheme
+
+&nbsp;
+
+## Demo Video and Resources
+[![video](public/youtube.png)](https://youtu.be/Az8ENPFu4ls)
+
+If you're a reader, then this blog is for you: **...**
 
 &nbsp;
 
