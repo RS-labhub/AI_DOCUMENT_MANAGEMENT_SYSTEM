@@ -36,7 +36,7 @@ This project demonstrates how to implement fine-grained authorization for both u
 ## Demo Video and Resources
 [![video](public/youtube.png)](https://youtu.be/Az8ENPFu4ls)
 
-If you're a reader, then this blog is for you: **...**
+If you're a reader, then this blog is for you: **https://dev.to/rohan_sharma/access-granted-heres-the-recipe-behind-my-ai-dms-351b**
 
 &nbsp;
 
